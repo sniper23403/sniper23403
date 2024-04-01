@@ -1,2 +1,2 @@
 ### Hi there 👋
-[banner]! (./banner.png)
+![banner] (./banner.png)
