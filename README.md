@@ -1,8 +1,7 @@
 ![MasterHead](./banner.png)
 <h1 align="center">Hi 👋, I'm Mohamed Mahfoudh</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="./web-developer-chilling.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sniper23403&label=Profile%20views&color=0e75b6&style=flat" alt="sniper23403" /> </p>
+<img align="center" alt="Coding" width="400" src="./web-developer-chilling.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sniper23403" alt="sniper23403" /></a> </p>
 
