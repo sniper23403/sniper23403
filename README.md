@@ -1,4 +1,4 @@
-[![MasterHead](./banner.png)]
+![MasterHead](./banner.png)
 <h1 align="center">Hi 👋, I'm Mohamed Mahfoudh</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAlaeddineMessadi%2FAlaeddineMessadi&psig=AOvVaw3L4YT8LCaBili_WUERBvAL&ust=1712157493799000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDw4-zpo4UDFQAAAAAdAAAAABBi" />
